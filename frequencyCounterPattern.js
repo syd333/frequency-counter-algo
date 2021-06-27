@@ -31,3 +31,4 @@ same = (arr1, arr2) => {
 //[1, 2, 3, 2], [9, 1, 4, 4]
 // line 19: if had [1, 5, 2, 3, 2] -- and if 25 is not in second arr
 // return false 
+// NAIVE APPROACH -- O(N^2)
